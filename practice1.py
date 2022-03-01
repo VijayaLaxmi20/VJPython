@@ -1,0 +1,21 @@
+# a='vijju'
+print(a.isidentifier())
+b='_hi'
+print(b.isidentifier())
+c='35hh'
+print(c.isidentifier())
+print(c,type(c))
+a=b=c=d=54
+print(a,b,c,d)
+print(a);print(b);print(c);print(d)
+print(a),print(b),print(c),print(d)
+a=2
+print(a,type(a))
+b=3.5
+print(b,type(b))
+c=vijaya
+print(c,type(c))
+c='vijaya'
+print(c,type(c))
+d=None
+print(d,type(d))

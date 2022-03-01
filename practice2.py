@@ -1,0 +1,20 @@
+a=2
+print(a,type(a))
+print('%i'%a)
+print(int(a))
+print(float(a))
+print('%f'%a)
+print('%s'%a)
+b=5.6
+print(b,type(b))
+print(int(b))
+print(float(b))
+print(str(b))
+c='9'
+print(c,type(c))
+print(int(c))
+# print(float(c))
+m='9.9'
+print(type(m))
+s=float(m)
+print(int(s))
